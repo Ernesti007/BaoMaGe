@@ -45,12 +45,33 @@ Size:5.21MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
+### Android_Vehicle-MRLS
+
+
+Size:14.17MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MRLS.modpack?raw=true)
+
 ### Android_Vehicle-P1000
 
 
 Size:3.50MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-P1000.modpack?raw=true)
+
+### Android_Vehicle-Phoenix
+
+
+Size:4.72MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Phoenix.modpack?raw=true)
+
+### Android_Vehicle-PL01
+
+
+Size:5.08MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-PL01.modpack?raw=true)
 
 ### Android_Vehicle-STR9040
 
