@@ -17,12 +17,12 @@ Size:2.29MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Air2宝马哥生日特别版.modpack?raw=true)
 
-### Android_Vehicle-CB吉普车（去TapTap下载正版游戏）
+### Android_Vehicle-CB吉普车
 
 
 Size:2.69MB
 Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车（去TapTap下载正版游戏）.modpack?raw=true)
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车.modpack?raw=true)
 
 ### Android_Vehicle-E-50Free
 
