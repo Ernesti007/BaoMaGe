@@ -59,13 +59,6 @@ Size:3.50MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-P1000.modpack?raw=true)
 
-### Android_Vehicle-Phoenix
-
-
-Size:4.72MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Phoenix.modpack?raw=true)
-
 ### Android_Vehicle-PL01
 
 
