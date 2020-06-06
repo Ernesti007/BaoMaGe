@@ -6,7 +6,7 @@
 ### Android_Vehicle-A-8Tiger
 
 
-Size:2.55MB
+Size:14.90MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-A-8Tiger.modpack?raw=true)
 
@@ -83,14 +83,14 @@ Platform:Android
 ### Android_Vehicle-UR1MIS
 
 
-Size:3.70MB
+Size:6.36MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-UR1MIS.modpack?raw=true)
 
 ### Android_Vehicle-喀秋莎多管火箭炮
 
 
-Size:2.40MB
+Size:5.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
 
