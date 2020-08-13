@@ -66,6 +66,13 @@ Size:12.65MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-VK1602.modpack?raw=true)
 
+### Android_Vehicle-MGF-特斯拉皮卡
+
+
+Size:3.98MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-特斯拉皮卡.modpack?raw=true)
+
 ### Android_Vehicle-MRLS
 
 
