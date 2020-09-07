@@ -136,3 +136,10 @@ Size:5.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
 
+### Android_VehicleMGF-战地2142直升机
+
+
+Size:3.53MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_VehicleMGF-战地2142直升机.modpack?raw=true)
+
