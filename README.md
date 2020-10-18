@@ -13,7 +13,7 @@ Platform:Android
 ### Android_Vehicle-A-8Tiger
 
 
-Size:14.90MB
+Size:3.26MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-A-8Tiger.modpack?raw=true)
 
@@ -27,14 +27,14 @@ Platform:Android
 ### Android_Vehicle-CB吉普车
 
 
-Size:2.69MB
+Size:2.85MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车.modpack?raw=true)
 
 ### Android_Vehicle-E-50Free
 
 
-Size:1.89MB
+Size:2.42MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-E-50Free.modpack?raw=true)
 
@@ -55,63 +55,63 @@ Platform:Android
 ### Android_Vehicle-M880
 
 
-Size:5.21MB
+Size:3.69MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
 ### Android_Vehicle-MGF-Lorraine40t
 
 
-Size:1.23MB
+Size:1.36MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Lorraine40t.modpack?raw=true)
 
 ### Android_Vehicle-MGF-M48A1
 
 
-Size:1.96MB
+Size:2.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-M48A1.modpack?raw=true)
 
 ### Android_Vehicle-MGF-T-64
 
 
-Size:6.57MB
+Size:4.17MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-T-64.modpack?raw=true)
 
 ### Android_Vehicle-MGF-T110E3
 
 
-Size:1.79MB
+Size:1.93MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-T110E3.modpack?raw=true)
 
 ### Android_Vehicle-MGF-UAZ-8
 
 
-Size:1.87MB
+Size:2.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-UAZ-8.modpack?raw=true)
 
 ### Android_Vehicle-MGF-VK1602
 
 
-Size:12.65MB
+Size:6.75MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-VK1602.modpack?raw=true)
 
 ### Android_Vehicle-MGF-正当防卫4军用越野车
 
 
-Size:3.43MB
+Size:3.52MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-正当防卫4军用越野车.modpack?raw=true)
 
 ### Android_Vehicle-MGF-特斯拉皮卡
 
 
-Size:3.98MB
+Size:4.27MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-特斯拉皮卡.modpack?raw=true)
 
@@ -139,28 +139,28 @@ Platform:Android
 ### Android_Vehicle-STR9040
 
 
-Size:1.67MB
+Size:2.14MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-STR9040.modpack?raw=true)
 
 ### Android_Vehicle-Toooog
 
 
-Size:4.17MB
+Size:1.75MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Toooog.modpack?raw=true)
 
 ### Android_Vehicle-UR1MIS
 
 
-Size:6.36MB
+Size:3.46MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-UR1MIS.modpack?raw=true)
 
 ### Android_Vehicle-喀秋莎多管火箭炮
 
 
-Size:5.11MB
+Size:2.64MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
 
