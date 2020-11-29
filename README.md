@@ -59,6 +59,13 @@ Size:3.69MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
+### Android_Vehicle-MGF-EDI
+
+
+Size:5.30MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-EDI.modpack?raw=true)
+
 ### Android_Vehicle-MGF-Lorraine40t
 
 
