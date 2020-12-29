@@ -108,6 +108,13 @@ Size:6.75MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-VK1602.modpack?raw=true)
 
+### Android_Vehicle-MGF-南达科他级战列舰
+
+
+Size:4.26MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-南达科他级战列舰.modpack?raw=true)
+
 ### Android_Vehicle-MGF-正当防卫4军用越野车
 
 
