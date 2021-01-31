@@ -111,7 +111,7 @@ Platform:Android
 ### Android_Vehicle-MGF-VK1602
 
 
-Size:6.75MB
+Size:3.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-VK1602.modpack?raw=true)
 
