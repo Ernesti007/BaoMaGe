@@ -136,6 +136,41 @@ Size:4.27MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-特斯拉皮卡.modpack?raw=true)
 
+### Android_Vehicle-MGFWOT-M41
+
+
+Size:3.38MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-M41.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-T-34-2G
+
+
+Size:3.38MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type58
+
+
+Size:2.64MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type58.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type62
+
+
+Size:3.66MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type62.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type64
+
+
+Size:3.56MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type64.modpack?raw=true)
+
 ### Android_Vehicle-MRLS
 
 
