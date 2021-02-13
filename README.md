@@ -90,7 +90,7 @@ Platform:Android
 ### Android_Vehicle-MGF-T-64
 
 
-Size:4.17MB
+Size:4.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-T-64.modpack?raw=true)
 
