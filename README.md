@@ -59,6 +59,13 @@ Size:3.69MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
+### Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr
+
+
+Size:3.01MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr.modpack?raw=true)
+
 ### Android_Vehicle-MGF-EDI
 
 
@@ -139,42 +146,42 @@ Platform:Android
 ### Android_Vehicle-MGFWOT-M41
 
 
-Size:3.38MB
+Size:3.35MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-M41.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Object277
 
 
-Size:7.39MB
+Size:7.13MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Object277.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-T-34-2G
 
 
-Size:3.38MB
+Size:3.57MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Type58
 
 
-Size:2.64MB
+Size:2.82MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type58.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Type62
 
 
-Size:3.66MB
+Size:3.59MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type62.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Type64
 
 
-Size:3.56MB
+Size:3.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type64.modpack?raw=true)
 
