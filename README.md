@@ -27,7 +27,7 @@ Platform:Android
 ### Android_Vehicle-CB吉普车
 
 
-Size:2.85MB
+Size:2.91MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车.modpack?raw=true)
 
