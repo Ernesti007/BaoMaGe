@@ -13,7 +13,7 @@ Platform:Android
 ### Android_Vehicle-A-8Tiger
 
 
-Size:3.26MB
+Size:3.21MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-A-8Tiger.modpack?raw=true)
 
