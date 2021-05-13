@@ -31,17 +31,10 @@ Size:2.91MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车.modpack?raw=true)
 
-### Android_Vehicle-E-50Free
-
-
-Size:2.42MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-E-50Free.modpack?raw=true)
-
 ### Android_Vehicle-Gustav
 
 
-Size:25.84MB
+Size:17.69MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Gustav.modpack?raw=true)
 
