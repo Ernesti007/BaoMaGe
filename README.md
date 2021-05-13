@@ -41,7 +41,7 @@ Platform:Android
 ### Android_Vehicle-Karl
 
 
-Size:28.80MB
+Size:20.68MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Karl.modpack?raw=true)
 
