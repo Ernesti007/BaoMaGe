@@ -48,7 +48,7 @@ Platform:Android
 ### Android_Vehicle-M880
 
 
-Size:3.69MB
+Size:3.93MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
