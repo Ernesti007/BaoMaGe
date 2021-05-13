@@ -69,7 +69,7 @@ Platform:Android
 ### Android_Vehicle-MGF-KV44
 
 
-Size:4.62MB
+Size:4.79MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-KV44.modpack?raw=true)
 
