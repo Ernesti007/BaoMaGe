@@ -97,7 +97,7 @@ Platform:Android
 ### Android_Vehicle-MGF-T110E3
 
 
-Size:1.93MB
+Size:2.15MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-T110E3.modpack?raw=true)
 
