@@ -125,7 +125,7 @@ Platform:Android
 ### Android_Vehicle-MGF-正当防卫4军用越野车
 
 
-Size:3.52MB
+Size:3.00MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-正当防卫4军用越野车.modpack?raw=true)
 
