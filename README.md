@@ -118,7 +118,7 @@ Platform:Android
 ### Android_Vehicle-MGF-南达科他级战列舰
 
 
-Size:4.26MB
+Size:5.94MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-南达科他级战列舰.modpack?raw=true)
 
