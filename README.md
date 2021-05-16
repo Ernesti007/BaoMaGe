@@ -104,7 +104,7 @@ Platform:Android
 ### Android_Vehicle-MGF-UAZ-8
 
 
-Size:2.01MB
+Size:2.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-UAZ-8.modpack?raw=true)
 
