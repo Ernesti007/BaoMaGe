@@ -132,7 +132,7 @@ Platform:Android
 ### Android_Vehicle-MGF-特斯拉皮卡
 
 
-Size:4.27MB
+Size:3.87MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-特斯拉皮卡.modpack?raw=true)
 
@@ -188,7 +188,7 @@ Platform:Android
 ### Android_Vehicle-P1000
 
 
-Size:3.50MB
+Size:2.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-P1000.modpack?raw=true)
 
@@ -202,28 +202,28 @@ Platform:Android
 ### Android_Vehicle-STR9040
 
 
-Size:2.14MB
+Size:2.03MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-STR9040.modpack?raw=true)
 
 ### Android_Vehicle-Toooog
 
 
-Size:1.75MB
+Size:1.97MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Toooog.modpack?raw=true)
 
 ### Android_Vehicle-UR1MIS
 
 
-Size:3.46MB
+Size:3.30MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-UR1MIS.modpack?raw=true)
 
 ### Android_Vehicle-喀秋莎多管火箭炮
 
 
-Size:2.64MB
+Size:2.86MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
 
