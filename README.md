@@ -87,6 +87,13 @@ Size:2.37MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-M48A1.modpack?raw=true)
 
+### Android_Vehicle-MGF-Pickup
+
+
+Size:4.51MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Pickup.modpack?raw=true)
+
 ### Android_Vehicle-MGF-T-64
 
 
