@@ -255,3 +255,10 @@ Size:3.53MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_VehicleMGF-战地2142直升机.modpack?raw=true)
 
+### Android_宝马哥的免费特效MOD
+
+
+Size:0.92MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_宝马哥的免费特效MOD.modpack?raw=true)
+
