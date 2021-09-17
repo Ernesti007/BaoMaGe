@@ -199,6 +199,13 @@ Size:3.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type64.modpack?raw=true)
 
+### Android_Vehicle-MGL-Air2
+
+
+Size:3.39MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-Air2.modpack?raw=true)
+
 ### Android_Vehicle-MRLS
 
 
