@@ -206,6 +206,34 @@ Size:3.39MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-Air2.modpack?raw=true)
 
+### Android_Vehicle-MGL-Challenger2
+
+
+Size:12.78MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-Challenger2.modpack?raw=true)
+
+### Android_Vehicle-MGL-Flak41试验防空车
+
+
+Size:6.63MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-Flak41试验防空车.modpack?raw=true)
+
+### Android_Vehicle-MGL-M60A1
+
+
+Size:7.56MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-M60A1.modpack?raw=true)
+
+### Android_Vehicle-MGLWT-IS-4
+
+
+Size:9.20MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGLWT-IS-4.modpack?raw=true)
+
 ### Android_Vehicle-MRLS
 
 
