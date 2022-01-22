@@ -59,20 +59,6 @@ Size:3.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr.modpack?raw=true)
 
-### Android_Vehicle-MGF-EDI
-
-
-Size:5.30MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-EDI.modpack?raw=true)
-
-### Android_Vehicle-MGF-F15
-
-
-Size:4.24MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-F15.modpack?raw=true)
-
 ### Android_Vehicle-MGF-KV44
 
 
@@ -177,13 +163,6 @@ Platform:Android
 Size:3.57MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
-
-### Android_Vehicle-MGFWOT-Type58
-
-
-Size:2.82MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type58.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Type62
 
@@ -303,13 +282,6 @@ Platform:Android
 Size:2.86MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
-
-### Android_VehicleMGF-战地2142直升机
-
-
-Size:3.53MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_VehicleMGF-战地2142直升机.modpack?raw=true)
 
 ### Android_宝马哥的免费特效MOD
 
