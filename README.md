@@ -153,7 +153,7 @@ Platform:Android
 ### Android_Vehicle-MGFWOT-Object277
 
 
-Size:7.13MB
+Size:7.25MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Object277.modpack?raw=true)
 
@@ -163,6 +163,13 @@ Platform:Android
 Size:3.57MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type58
+
+
+Size:3.07MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type58.modpack?raw=true)
 
 ### Android_Vehicle-MGFWOT-Type62
 
@@ -289,4 +296,11 @@ Platform:Android
 Size:0.92MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_宝马哥的免费特效MOD.modpack?raw=true)
+
+### Android_禁用车长语音包模组
+
+
+Size:0.01MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_禁用车长语音包模组.modpack?raw=true)
 
