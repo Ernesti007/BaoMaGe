@@ -3,13 +3,6 @@
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
 ## BaoMaGe
 
-### Android_MGF-大平原地图
-
-
-Size:36.58MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_MGF-大平原地图.modpack?raw=true)
-
 ### Android_Vehicle-A-8Tiger
 
 
