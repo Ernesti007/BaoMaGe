@@ -153,7 +153,7 @@ Platform:Android
 ### Android_Vehicle-MGFWOT-M41
 
 
-Size:3.35MB
+Size:3.58MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-M41.modpack?raw=true)
 
