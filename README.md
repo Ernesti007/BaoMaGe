@@ -167,7 +167,7 @@ Platform:Android
 ### Android_Vehicle-MGFWOT-T-34-2G
 
 
-Size:3.57MB
+Size:3.34MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
 
