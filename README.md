@@ -188,7 +188,7 @@ Platform:Android
 ### Android_Vehicle-MGFWOT-Type64
 
 
-Size:3.74MB
+Size:3.70MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGFWOT-Type64.modpack?raw=true)
 
