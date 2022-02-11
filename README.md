@@ -45,6 +45,13 @@ Size:3.93MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-M880.modpack?raw=true)
 
+### Android_Vehicle-MGF-A-8Tiger
+
+
+Size:4.62MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-A-8Tiger.modpack?raw=true)
+
 ### Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr
 
 
