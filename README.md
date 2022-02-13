@@ -17,13 +17,6 @@ Size:2.29MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Air2宝马哥生日特别版.modpack?raw=true)
 
-### Android_Vehicle-CB吉普车
-
-
-Size:2.91MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-CB吉普车.modpack?raw=true)
-
 ### Android_Vehicle-Gustav
 
 
@@ -58,6 +51,13 @@ Platform:Android
 Size:3.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr.modpack?raw=true)
+
+### Android_Vehicle-MGF-CB吉普车
+
+
+Size:2.75MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-CB吉普车.modpack?raw=true)
 
 ### Android_Vehicle-MGF-EDI
 
