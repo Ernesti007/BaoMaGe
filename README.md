@@ -90,7 +90,7 @@ Platform:Android
 ### Android_Vehicle-MGF-Lorraine40t
 
 
-Size:1.65MB
+Size:2.50MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Lorraine40t.modpack?raw=true)
 
