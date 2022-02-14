@@ -59,6 +59,13 @@ Size:2.75MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-CB吉普车.modpack?raw=true)
 
+### Android_Vehicle-MGF-E-50Free
+
+
+Size:3.61MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-E-50Free.modpack?raw=true)
+
 ### Android_Vehicle-MGF-EDI
 
 
