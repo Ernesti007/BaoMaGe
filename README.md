@@ -3,13 +3,6 @@
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
 ## BaoMaGe
 
-### Android_Vehicle-A-8Tiger
-
-
-Size:3.21MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-A-8Tiger.modpack?raw=true)
-
 ### Android_Vehicle-Air2宝马哥生日特别版
 
 
@@ -44,6 +37,13 @@ Platform:Android
 Size:4.62MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-A-8Tiger.modpack?raw=true)
+
+### Android_Vehicle-MGF-AceCollection
+
+
+Size:4.09MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-AceCollection.modpack?raw=true)
 
 ### Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr
 
@@ -262,19 +262,19 @@ Size:9.20MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGLWT-IS-4.modpack?raw=true)
 
-### Android_Vehicle-MRLS
-
-
-Size:14.17MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MRLS.modpack?raw=true)
-
 ### Android_Vehicle-P1000
 
 
 Size:2.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-P1000.modpack?raw=true)
+
+### Android_Vehicle-Phoenix
+
+
+Size:4.72MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Phoenix.modpack?raw=true)
 
 ### Android_Vehicle-PL01
 
@@ -324,4 +324,11 @@ Platform:Android
 Size:0.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_禁用车长语音包模组.modpack?raw=true)
+
+### StandaloneWindows64_禁用车长语音包模组
+
+
+Size:0.01MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/StandaloneWindows64_禁用车长语音包模组.modpack?raw=true)
 
