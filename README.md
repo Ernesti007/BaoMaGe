@@ -125,7 +125,7 @@ Platform:Android
 ### Android_Vehicle-MGF-Pickup
 
 
-Size:4.51MB
+Size:3.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Pickup.modpack?raw=true)
 
