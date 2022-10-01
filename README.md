@@ -269,6 +269,13 @@ Size:4.35MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-Phoenix.modpack?raw=true)
 
+### Android_Vehicle-MGL-T470
+
+
+Size:7.29MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-T470.modpack?raw=true)
+
 ### Android_Vehicle-MGLWT-IS-4
 
 
