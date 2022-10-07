@@ -272,7 +272,7 @@ Platform:Android
 ### Android_Vehicle-MGL-StruTiger
 
 
-Size:4.28MB
+Size:3.73MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-StruTiger.modpack?raw=true)
 
