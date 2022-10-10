@@ -55,7 +55,7 @@ Platform:Android
 ### Android_Vehicle-MGF-AceCollection
 
 
-Size:4.09MB
+Size:3.89MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-AceCollection.modpack?raw=true)
 
