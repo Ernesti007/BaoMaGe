@@ -290,6 +290,13 @@ Size:5.91MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-天启.modpack?raw=true)
 
+### Android_Vehicle-MGL-幻影坦克
+
+
+Size:6.51MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGL-幻影坦克.modpack?raw=true)
+
 ### Android_Vehicle-MGLWT-IS-4
 
 
