@@ -300,7 +300,7 @@ Platform:Android
 ### Android_Vehicle-MGLWT-IS-4
 
 
-Size:9.20MB
+Size:6.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGLWT-IS-4.modpack?raw=true)
 
