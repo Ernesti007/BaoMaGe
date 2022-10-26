@@ -3,19 +3,19 @@
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
 ## BaoMaGe
 
-### Android_Map-MGF-DuskIsland
-
-
-Size:36.49MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Map-MGF-DuskIsland.modpack?raw=true)
-
-### Android_Map-MGF-VastSky
+### Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky
 
 
 Size:19.77MB
 Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Map-MGF-VastSky.modpack?raw=true)
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky.modpack?raw=true)
+
+### Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland
+
+
+Size:36.49MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland.modpack?raw=true)
 
 ### Android_Vehicle-Air2宝马哥生日特别版
 
