@@ -104,7 +104,7 @@ Platform:Android
 ### Android_Vehicle-MGF-Lorraine40t
 
 
-Size:2.50MB
+Size:2.51MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-MGF-Lorraine40t.modpack?raw=true)
 
@@ -359,18 +359,4 @@ Platform:Android
 Size:2.52MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_VehicleMGF-战地2142直升机.modpack?raw=true)
-
-### Android_禁用车长语音包模组
-
-
-Size:0.01MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_禁用车长语音包模组.modpack?raw=true)
-
-### StandaloneWindows64_禁用车长语音包模组
-
-
-Size:0.01MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/StandaloneWindows64_禁用车长语音包模组.modpack?raw=true)
 
