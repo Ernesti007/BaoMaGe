@@ -17,13 +17,6 @@ Size:36.49MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland.modpack?raw=true)
 
-### Android_Vehicle-Air2宝马哥生日特别版
-
-
-Size:2.29MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/BaoMaGe/Android_Vehicle-Air2宝马哥生日特别版.modpack?raw=true)
-
 ### Android_Vehicle-Gustav
 
 
